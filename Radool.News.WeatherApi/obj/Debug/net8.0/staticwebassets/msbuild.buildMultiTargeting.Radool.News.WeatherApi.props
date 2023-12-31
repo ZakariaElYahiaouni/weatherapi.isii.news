@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Radool.News.WeatherApi.props" />
+</Project>

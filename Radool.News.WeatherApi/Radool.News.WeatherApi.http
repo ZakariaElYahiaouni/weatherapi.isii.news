@@ -1,0 +1,6 @@
+@Radool.News.WeatherApi_HostAddress = http://localhost:5093
+
+GET {{Radool.News.WeatherApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\bin\Debug\net8.0\Radool.News.Json.exe
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\bin\Debug\net8.0\Radool.News.Json.deps.json
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\bin\Debug\net8.0\Radool.News.Json.runtimeconfig.json
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\bin\Debug\net8.0\Radool.News.Json.dll
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\bin\Debug\net8.0\Radool.News.Json.pdb
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\Radool.News.Json.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\Radool.News.Json.AssemblyInfoInputs.cache
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\Radool.News.Json.AssemblyInfo.cs
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\Radool.News.Json.csproj.CoreCompileInputs.cache
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\Radool.News.Json.sourcelink.json
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\Radool.News.Json.dll
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\refint\Radool.News.Json.dll
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\Radool.News.Json.pdb
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\Radool.News.Json.genruntimeconfig.cache
+C:\Users\zelya\Desktop\Radool.News\Radool.News.Json\obj\Debug\net8.0\ref\Radool.News.Json.dll
